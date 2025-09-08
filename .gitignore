@@ -7,3 +7,7 @@ dependency-reduced-pom.xml
 *.iml
 *.idea
 simulation_output
+
+### direnv ###
+.direnv
+.envrc
