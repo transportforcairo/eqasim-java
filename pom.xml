@@ -10,6 +10,7 @@
 
 	<modules>
 		<module>core</module>
+		<module>cairo</module>
 		<module>switzerland</module>
 		<module>ile_de_france</module>
 		<module>sao_paulo</module>
